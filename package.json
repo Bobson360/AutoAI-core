@@ -1,0 +1,13 @@
+{
+  "name": "autoai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "server": "node ./expressapp/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
